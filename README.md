@@ -1,3 +1,6 @@
+### 🧩 피그마
+> https://www.figma.com/design/EoNdnjNQrLvhHX7krjcxU0/Readdy--%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-?node-id=0-1&p=f&t=sDKYca5iqiVdmOSa-0
+
 ## ✅ MVP 모델
 ### 🎯 핵심 목표
 
